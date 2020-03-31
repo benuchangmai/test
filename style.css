@@ -1,0 +1,16 @@
+.header {
+
+}
+.nav-bar {
+	display: flex;
+
+}
+.tab {
+	padding: 10px;
+}
+.tab.youtube {
+	background-color: yellow;
+}
+#main-body {
+	display: flex;
+}
